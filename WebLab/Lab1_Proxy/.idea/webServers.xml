@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="91520173-0a07-4615-9960-f3fe42d9050b" name="wzy_gpu">
+        <fileTransfer rootFolder="/users10/ziyiwang" accessType="SFTP" host="localhost" port="2222" sshConfigId="e3af1971-f3ad-48bd-9479-d05a8e3a3bb8" sshConfig="ziyiwang@localhost:2222 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

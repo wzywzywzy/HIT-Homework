@@ -1,0 +1,7 @@
+forbidden_user:
+#   - "127.0.0.1"
+forbidden_web:
+#  - "today.hit.edu.cn"
+#  - "wyydj1.top"
+fishing:
+  "fishing.com": "hit.edu.cn"
