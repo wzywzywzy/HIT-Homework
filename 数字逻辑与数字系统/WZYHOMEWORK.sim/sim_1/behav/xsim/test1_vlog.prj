@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../WZYHOMEWORK.srcs/sources_1/new/L.v" \
+"../../../../WZYHOMEWORK.srcs/sources_1/new/NUM.v" \
+"../../../../WZYHOMEWORK.srcs/sources_1/new/PNUM0.v" \
+"../../../../WZYHOMEWORK.srcs/sources_1/new/PW.v" \
+"../../../../WZYHOMEWORK.srcs/sources_1/new/main.v" \
+"../../../../WZYHOMEWORK.srcs/sim_1/new/test1.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
