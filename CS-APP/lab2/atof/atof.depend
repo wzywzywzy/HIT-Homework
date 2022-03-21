@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1619156723 source:/home/linda/programs/atof/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

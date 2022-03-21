@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619103305 source:/home/linda/programs/utf8len/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

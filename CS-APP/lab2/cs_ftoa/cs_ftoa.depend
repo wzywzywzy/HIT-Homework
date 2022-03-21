@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619159923 source:/home/linda/programs/cs_ftoa/main.c
+	<stdlib.h>
+	<stdio.h>
+

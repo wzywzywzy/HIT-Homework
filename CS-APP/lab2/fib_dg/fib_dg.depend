@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619161105 source:/home/linda/programs/fib_dg/main.c
+	<stdio.h>
+	<stdlib.h>
+

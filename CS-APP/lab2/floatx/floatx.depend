@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619168590 source:/home/linda/programs/floatx/main.c
+	<stdio.h>
+	<stdlib.h>
+

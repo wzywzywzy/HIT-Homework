@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619155657 source:/home/linda/programs/cs_atoi/main.c
+	<stdio.h>
+	<stdlib.h>
+
