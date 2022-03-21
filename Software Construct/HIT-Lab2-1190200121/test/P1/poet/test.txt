@@ -1,0 +1,3 @@
+alice is in day
+bob is in night
+candy is catching night

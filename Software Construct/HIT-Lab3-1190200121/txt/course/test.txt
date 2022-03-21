@@ -1,0 +1,8 @@
+Period{2021-03-01,20}
+Course{ 
+  15005721{Chinese,ZhangSan,Room 201,4}
+  15838854{Math,LiSi,Room 302,8}
+  32143153{English,WangEr,Room 103,6}
+  12135135{Physics,LiHua,Room 304,4}
+  32532135{Biology,WangWei,Room 405,4}
+}
